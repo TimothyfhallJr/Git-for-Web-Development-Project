@@ -88,7 +88,11 @@ https://codepen.io/rufis1982/pen/dyYPRvp?editors=1000
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
+    An inline elemtnet does not cause a line break and only uses up space bound by the opening and closing tag.
+    A blocvk element starts a new line ad takes up the full width of a page.  It also has a line break before andf after the element.
     2. What happens when an element is positioned absolutely? 
+     If an element is posititioned absolutely it specify the distance the element should be from each containing element's sides. 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
